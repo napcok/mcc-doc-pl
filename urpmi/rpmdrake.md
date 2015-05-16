@@ -1,0 +1,1 @@
+# Instalacja i usuwanie oprogramowania
