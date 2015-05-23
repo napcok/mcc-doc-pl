@@ -12,4 +12,8 @@
 
 ![](../img/drakwizard-ftp-step4.png)
 
+![](../img/drakwizard-ftp-step5.png)
+
+![](../img/drakwizard-ftp-step6.png)
+
 
