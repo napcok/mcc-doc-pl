@@ -1,0 +1,1 @@
+# Narzędzie raportowania błędów

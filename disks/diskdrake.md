@@ -1,0 +1,1 @@
+# Zarządzanie partycjami dysku

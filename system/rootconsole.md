@@ -1,0 +1,1 @@
+# Konsola administratora

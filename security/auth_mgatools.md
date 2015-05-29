@@ -1,0 +1,1 @@
+# Uwierzytelnianie dla narzędzi Magei

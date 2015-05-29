@@ -1,0 +1,1 @@
+# Konfiguracja połączeń VPN

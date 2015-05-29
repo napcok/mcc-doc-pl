@@ -1,0 +1,1 @@
+# Sposób uruchamiania

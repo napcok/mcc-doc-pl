@@ -1,0 +1,1 @@
+# Firewall - zapora sieciowa

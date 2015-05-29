@@ -1,0 +1,1 @@
+# Konfiguracja nowego interfejsu sieciowego
